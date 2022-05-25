@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "398269fd-ed0d-4733-9fe4-7a46ed6bc24e",
+    "colId": "history",
+    "containerId": "",
+    "name": "getDogs",
+    "url": "http://localhost:3000/api/graphql",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-05-25T00:02:07.857Z",
+    "modified": "2022-05-25T00:02:07.901Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\"query\":\"query getDogs { dogs { name } }\"}",
+      "form": []
+    },
+    "tests": []
+  }
+]
